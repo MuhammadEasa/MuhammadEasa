@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadEasa
-- 👀 I’m interested in C# Xamarin forms mobile apps
-- 🌱 I’m currently learning mobile app development with C# Xamarin forms
-- 💞️ I’m looking to collaborate on Xamarin forms how to create pdf crystal reports with sqlite database
+- 👀 I’m working in C# asp.net MVC from 3 years
+- 🌱 I’m currently working with austrilian company web app consulting
+- 💞 
 - 📫 How to reach me MobileNO: 00923355646356 email: eisakhankhurram420@gmail.com
 
 <!---
